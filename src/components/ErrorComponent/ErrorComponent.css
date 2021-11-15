@@ -1,0 +1,8 @@
+.error-wrapper {
+    text-align: center;
+    padding: 20px;
+}
+.error-wrapper p {
+    margin: 0;
+    color: coral;
+}
